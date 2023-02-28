@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTcyNjdiZTVkZjJmYmI2NDM1OGZlODVhN2IzNmMwMzVjNDdkODkzMCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/ivan-grekov-front/">
+  <a href="https://www.linkedin.com/in/ivan-grekov-front/" target='_blank'>
     <img src="https://img.icons8.com/color/48/null/linkedin.png" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/ivan_grekovv">
+  <a href="https://t.me/ivan_grekovv" target='_blank'>
     <img src="https://img.icons8.com/color/48/null/telegram-app--v1.png" alt="Telegtam Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/rsschool_b32f3f09118c091c">
+  <a href="https://www.codewars.com/users/rsschool_b32f3f09118c091c" target='_blank'>
     <img src="https://img.icons8.com/fluency/48/null/codewars.png" alt="Codewars Badge"/>
   </a>
 </div>
